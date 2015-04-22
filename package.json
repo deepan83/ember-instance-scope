@@ -1,6 +1,6 @@
 {
   "name": "ember-instance-scope",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Syntactic sugar to specify instance specific properties within extend",
   "directories": {
     "doc": "doc",
